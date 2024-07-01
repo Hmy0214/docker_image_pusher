@@ -1,4 +1,4 @@
-tomcat:9.0.89-jdk8
+jenkins:2.414.2-debian-11-r16
 #kube-apiserver:v1.23.17
 #kube-controller-manager:v1.23.17
 #kube-scheduler:v1.23.17
@@ -7,7 +7,7 @@ tomcat:9.0.89-jdk8
 #etcd:3.5.6-0
 #coredns:v1.8.6
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
