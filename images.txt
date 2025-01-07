@@ -1,5 +1,7 @@
-python:3.8
-python:3.6.8
+debian:12.8
+almalinux:9.4
+#python:3.8
+#python:3.6.8
 #dockurr/windows
 #jenkins:2.414.2
 #kube-apiserver:v1.23.17
