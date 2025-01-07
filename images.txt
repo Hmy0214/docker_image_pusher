@@ -1,4 +1,6 @@
-dockurr/windows
+python:3.8
+python:3.6.8
+#dockurr/windows
 #jenkins:2.414.2
 #kube-apiserver:v1.23.17
 #kube-controller-manager:v1.23.17
