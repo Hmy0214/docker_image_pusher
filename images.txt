@@ -1,4 +1,4 @@
-mysql:5.1
+mysql-server-community:5.1
 #debian:12.8
 #almalinux:9.4
 #python:3.8
