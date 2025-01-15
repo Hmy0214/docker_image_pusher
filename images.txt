@@ -1,5 +1,6 @@
-debian:12.8
-almalinux:9.4
+mysql:5.1
+#debian:12.8
+#almalinux:9.4
 #python:3.8
 #python:3.6.8
 #dockurr/windows
